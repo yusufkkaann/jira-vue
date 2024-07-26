@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "done": false,
+      "title": "Frontend öğrenme süreci ",
+      "details": "Frontend öğrenme sürecinde kullanılan teknolojileri öğrenme süreci daha iyi anlamak için projeler yapılacak",
+      "id": "1"
+    },
+    {
+      "done": false,
+      "title": "Backend öğrenme süreci",
+      "details": "Backend öğrenme sürecinde kullanılan teknolojileri öğrenme süreci daha iyi anlamak için projeler yapılacak",
+      "id": "2"
+    },
+    {
+      "done": false,
+      "title": "Fullstack öğrenme süreci",
+      "details": "Fullstack öğrenme sürecinde kullanılan teknolojileri öğrenme süreci daha iyi anlamak için projeler yapılacak",
+      "id": "3"
+    },
+    {
+      "done": false,
+      "title": "vue js ile öğrenme",
+      "details": "aaaa",
+      "id": "6"
+    }
+  ]
+}
